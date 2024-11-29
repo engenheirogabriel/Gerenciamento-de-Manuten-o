@@ -1,0 +1,4 @@
+\\importação dos dados
+
+=QUERY(IMPORTRANGE("URL"; "PLANILHA!A1:XYZ99"); "SELECT Col1, Col2, Col3,...")
+=EXT.TEXTO(CÉLULA;1;100)
